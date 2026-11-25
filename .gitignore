@@ -1,4 +1,5 @@
 .vercel
+.codex/
 node_modules/
 dist/
 *.log
